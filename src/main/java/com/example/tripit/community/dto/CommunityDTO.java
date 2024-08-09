@@ -16,7 +16,7 @@ public class CommunityDTO {
 
     //User
     private long userId;
-    private long loggedUserId; // 글쓴이와 로그인한 유저가 일치하는가를 확인하기 위함임
+    private long loggedUserId; // 글쓴이와 로그인한 유저가 일치하는가를 확인하기 위함임!!
     private String nickname;
     private String gender;
     private String birth;
