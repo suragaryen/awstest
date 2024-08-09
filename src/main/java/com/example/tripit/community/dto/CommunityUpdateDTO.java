@@ -9,7 +9,7 @@ import lombok.ToString;
 @Setter
 @NoArgsConstructor
 @ToString
-public class CommunityUpdateDTO {
+public class CommunityUpdateDTO { //DTO
 
     private String postTitle;
     private String postContent;

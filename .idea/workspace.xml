@@ -1,0 +1,331 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="69534d48-8a71-4737-b8cf-fdb2944a77ad" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/src/main/resources/application.properties" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="ExternalProjectsManager">
+    <system id="GRADLE">
+      <state>
+        <task path="$PROJECT_DIR$">
+          <activation />
+        </task>
+        <projects_view>
+          <tree_state>
+            <expand>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="trip-it" type="f1a62948:ProjectNode" />
+              </path>
+            </expand>
+            <select />
+          </tree_state>
+        </projects_view>
+      </state>
+    </system>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="package-info" />
+        <option value="Class" />
+        <option value="JUnit5 Test Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 2
+}</component>
+  <component name="ProjectId" id="2gnyaNXqPCRWhRcpjmV9OhPC6FU" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Gradle.Build trip-it 복사본 2.executor": "Run",
+    "Gradle.Build trip-it.executor": "Run",
+    "Gradle.CommunityServiceTest.deletePost.executor": "Run",
+    "Gradle.Download Sources.executor": "Run",
+    "Gradle.SecurityContextHolderTest.인증된_사용자정보를_셋팅한다.executor": "Run",
+    "Gradle.SecurityContextHolderTest.인증된_사용자정보에_접근한다.executor": "Run",
+    "RequestMappingsPanelOrder0": "0",
+    "RequestMappingsPanelOrder1": "1",
+    "RequestMappingsPanelWidth0": "75",
+    "RequestMappingsPanelWidth1": "75",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "Spring Boot.TripItApplication.executor": "Run",
+    "com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary": "JUnit5",
+    "com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5": "",
+    "git-widget-placeholder": "master",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "/Users/0q/Desktop/awsTest",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "project.structure.last.edited": "SDKs",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.2",
+    "settings.editor.selected.configurable": "reference.settingsdialog.project.gradle",
+    "vue.rearranger.settings.migration": "true"
+  },
+  "keyToStringList": {
+    "DatabaseDriversLRU": [
+      "mysql"
+    ]
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/main/java/com/example/tripit/user/jwt" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/main/java/com/example/tripit/schedule/repository" />
+      <recent name="$PROJECT_DIR$/src/main/resources" />
+      <recent name="$PROJECT_DIR$/src/main/java/com/example/tripit/user/dto" />
+      <recent name="$PROJECT_DIR$/src/main/java/com/example/tripit/user/jwt" />
+    </key>
+    <key name="CreateTestDialog.Recents.Supers">
+      <recent name="" />
+    </key>
+    <key name="ExtractSuperBase.RECENT_KEYS">
+      <recent name="com.example.tripit.user.dto" />
+    </key>
+    <key name="CreateTestDialog.RecentsKey">
+      <recent name="com.example.tripit.community.service" />
+      <recent name="com.example.tripit.user.controller" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.example.tripit.user.oAuth2" />
+      <recent name="com.example.tripit.error" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Spring Boot.TripItApplication">
+    <configuration name="CommunityServiceTest.deletePost" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" value="" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value=":test" />
+            <option value="--tests" />
+            <option value="&quot;com.example.tripit.community.service.CommunityServiceTest.deletePost&quot;" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <ExternalSystemDebugServerProcess>false</ExternalSystemDebugServerProcess>
+      <ExternalSystemReattachDebugProcess>true</ExternalSystemReattachDebugProcess>
+      <DebugAllEnabled>false</DebugAllEnabled>
+      <RunAsTest>true</RunAsTest>
+      <method v="2" />
+    </configuration>
+    <configuration name="SecurityContextHolderTest.인증된_사용자정보를_셋팅한다" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" value="" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value=":test" />
+            <option value="--tests" />
+            <option value="&quot;com.example.tripit.user.controller.SecurityContextHolderTest.인증된_사용자정보를_셋팅한다&quot;" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <ExternalSystemDebugServerProcess>false</ExternalSystemDebugServerProcess>
+      <ExternalSystemReattachDebugProcess>true</ExternalSystemReattachDebugProcess>
+      <DebugAllEnabled>false</DebugAllEnabled>
+      <RunAsTest>true</RunAsTest>
+      <method v="2" />
+    </configuration>
+    <configuration name="SecurityContextHolderTest.인증된_사용자정보에_접근한다" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" value="" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value=":test" />
+            <option value="--tests" />
+            <option value="&quot;com.example.tripit.user.controller.SecurityContextHolderTest.인증된_사용자정보에_접근한다&quot;" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <ExternalSystemDebugServerProcess>false</ExternalSystemDebugServerProcess>
+      <ExternalSystemReattachDebugProcess>true</ExternalSystemReattachDebugProcess>
+      <DebugAllEnabled>false</DebugAllEnabled>
+      <RunAsTest>true</RunAsTest>
+      <method v="2" />
+    </configuration>
+    <configuration name="TripItApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
+      <module name="trip-it.main" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.example.tripit.TripItApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Gradle.CommunityServiceTest.deletePost" />
+        <item itemvalue="Gradle.SecurityContextHolderTest.인증된_사용자정보를_셋팅한다" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-jdk-9f38398b9061-39b83d9b5494-intellij.indexing.shared.core-IU-241.15989.150" />
+        <option value="bundled-js-predefined-1d06a55b98c1-91d5c284f522-JavaScript-IU-241.15989.150" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="69534d48-8a71-4737-b8cf-fdb2944a77ad" name="Changes" comment="" />
+      <created>1716347698517</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1716347698517</updated>
+      <workItem from="1716347699658" duration="250000" />
+      <workItem from="1716347955261" duration="11715000" />
+      <workItem from="1716470083455" duration="1008000" />
+      <workItem from="1716523157685" duration="15024000" />
+      <workItem from="1716799684931" duration="8156000" />
+      <workItem from="1716862116716" duration="22484000" />
+      <workItem from="1716967865315" duration="5270000" />
+      <workItem from="1717048750874" duration="7861000" />
+      <workItem from="1717121394456" duration="16600000" />
+      <workItem from="1717154759419" duration="2612000" />
+      <workItem from="1717333468707" duration="4175000" />
+      <workItem from="1717385161035" duration="20971000" />
+      <workItem from="1717466951994" duration="18809000" />
+      <workItem from="1717553276293" duration="17939000" />
+      <workItem from="1718158335801" duration="17841000" />
+      <workItem from="1718189261373" duration="4406000" />
+      <workItem from="1718328821393" duration="607000" />
+      <workItem from="1718364232901" duration="140000" />
+      <workItem from="1718364437702" duration="915000" />
+      <workItem from="1718588693152" duration="606000" />
+      <workItem from="1718592411491" duration="3635000" />
+      <workItem from="1718676264320" duration="15509000" />
+      <workItem from="1718711669711" duration="2369000" />
+      <workItem from="1718762568279" duration="18679000" />
+      <workItem from="1718854516997" duration="12977000" />
+      <workItem from="1719135394352" duration="4400000" />
+      <workItem from="1719280666537" duration="16326000" />
+      <workItem from="1719367545849" duration="6623000" />
+      <workItem from="1719381141712" duration="333000" />
+      <workItem from="1719381572309" duration="733000" />
+      <workItem from="1719382343233" duration="6319000" />
+      <workItem from="1719540752516" duration="538000" />
+      <workItem from="1719541806329" duration="3678000" />
+      <workItem from="1719730914881" duration="3131000" />
+      <workItem from="1719816759520" duration="2555000" />
+      <workItem from="1719898310358" duration="11042000" />
+      <workItem from="1719971901003" duration="11149000" />
+      <workItem from="1720015643754" duration="508000" />
+      <workItem from="1720063328009" duration="2320000" />
+      <workItem from="1720153087592" duration="5768000" />
+      <workItem from="1720336662580" duration="6619000" />
+      <workItem from="1720416029416" duration="744000" />
+      <workItem from="1720419030941" duration="33000" />
+      <workItem from="1720422265895" duration="374000" />
+      <workItem from="1720426606528" duration="99000" />
+      <workItem from="1720426906949" duration="622000" />
+      <workItem from="1720428842246" duration="36000" />
+      <workItem from="1720489916974" duration="1325000" />
+      <workItem from="1720491687789" duration="499000" />
+      <workItem from="1720492243007" duration="1095000" />
+      <workItem from="1720494051846" duration="731000" />
+      <workItem from="1720495552024" duration="266000" />
+      <workItem from="1720495991708" duration="1169000" />
+      <workItem from="1720497770829" duration="9367000" />
+      <workItem from="1720532438478" duration="2219000" />
+      <workItem from="1720577512807" duration="6681000" />
+      <workItem from="1720590264719" duration="669000" />
+      <workItem from="1720666549561" duration="9655000" />
+      <workItem from="1721042053695" duration="1000" />
+      <workItem from="1721096042068" duration="12976000" />
+      <workItem from="1721117088232" duration="865000" />
+      <workItem from="1721272982986" duration="469000" />
+      <workItem from="1721283455384" duration="2157000" />
+      <workItem from="1721354785710" duration="13414000" />
+      <workItem from="1721449103761" duration="1406000" />
+      <workItem from="1721550173639" duration="5356000" />
+      <workItem from="1721574483739" duration="1020000" />
+      <workItem from="1721623772208" duration="6138000" />
+      <workItem from="1721700889714" duration="11297000" />
+      <workItem from="1721736767093" duration="556000" />
+      <workItem from="1721787257807" duration="7019000" />
+      <workItem from="1721972166720" duration="1585000" />
+      <workItem from="1722305368869" duration="2234000" />
+      <workItem from="1722320901357" duration="690000" />
+      <workItem from="1722321744139" duration="255000" />
+      <workItem from="1722322139978" duration="7000" />
+      <workItem from="1722322161543" duration="1231000" />
+      <workItem from="1722391530820" duration="11378000" />
+      <workItem from="1723010814069" duration="1610000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <breakpoint enabled="true" type="java-exception">
+          <properties class="org.springframework.security.authentication.InternalAuthenticationServiceException" package="org.springframework.security.authentication" />
+          <option name="timeStamp" value="1" />
+        </breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
